@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6nJjhViIIOUBjSjyCjG3t2XsR9rWFG0lUCzvPdkuNu5CXyTj3GGoPdSKv1si54X8QBHSvUW9vKxRIrReu2Hk3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Siim\\Documents\\Kool\\Polütehnikum\\Proge\\AngularDemo\\AngularDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siim\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.15\\microsoft.aspnetcore.spaproxy.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

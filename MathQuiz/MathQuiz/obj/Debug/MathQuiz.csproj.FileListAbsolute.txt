@@ -1,0 +1,11 @@
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Siim\Documents\Kool\Polütehnikum\Proge\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb

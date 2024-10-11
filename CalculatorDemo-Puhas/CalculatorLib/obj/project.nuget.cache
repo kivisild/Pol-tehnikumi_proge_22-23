@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvN/pzCnxz4+6tO6dFqL5KVNxAoH3a/rNhVXqW3xmiVmcu1QVHs/nmKBxaWuMxv4QtPQK7wubpgVORuO3GpxTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Siim\\Documents\\Kool\\Polütehnikum\\Proge\\Kool\\CalculatorDemo-Puhas\\CalculatorLib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Siim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

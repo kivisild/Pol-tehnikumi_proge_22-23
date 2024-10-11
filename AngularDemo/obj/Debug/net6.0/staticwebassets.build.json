@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "tdNrnZsDZ386BymwO/ZrzYvx++Y1VzNY0IjlDUe7lqA=",
+  "Source": "AngularDemo",
+  "BasePath": "_content/AngularDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AngularDemo\\wwwroot",
+      "Source": "AngularDemo",
+      "ContentRoot": "C:\\Users\\Siim\\Documents\\Kool\\Polütehnikum\\Proge\\AngularDemo\\wwwroot\\",
+      "BasePath": "_content/AngularDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Siim\\Documents\\Kool\\Polütehnikum\\Proge\\AngularDemo\\wwwroot\\favicon.ico",
+      "SourceId": "AngularDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Siim\\Documents\\Kool\\Polütehnikum\\Proge\\AngularDemo\\wwwroot\\",
+      "BasePath": "_content/AngularDemo",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

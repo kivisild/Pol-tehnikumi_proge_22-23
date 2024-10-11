@@ -1,0 +1,14 @@
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\bin\Debug\net6.0\Errors.exe
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\bin\Debug\net6.0\Errors.deps.json
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\bin\Debug\net6.0\Errors.runtimeconfig.json
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\bin\Debug\net6.0\Errors.dll
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\bin\Debug\net6.0\Errors.pdb
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\obj\Debug\net6.0\Errors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\obj\Debug\net6.0\Errors.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\obj\Debug\net6.0\Errors.AssemblyInfo.cs
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\obj\Debug\net6.0\Errors.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\obj\Debug\net6.0\Errors.dll
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\obj\Debug\net6.0\refint\Errors.dll
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\obj\Debug\net6.0\Errors.pdb
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\obj\Debug\net6.0\Errors.genruntimeconfig.cache
+C:\Users\opilane\Desktop\Invoice\ConsoleApp2\obj\Debug\net6.0\ref\Errors.dll

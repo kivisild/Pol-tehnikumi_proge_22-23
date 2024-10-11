@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Siim\\Documents\\Kool\\Polütehnikum\\Proge\\AngularDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AngularDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AngularDemo.props",
+      "PackagePath": "build\\AngularDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AngularDemo.props",
+      "PackagePath": "buildMultiTargeting\\AngularDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AngularDemo.props",
+      "PackagePath": "buildTransitive\\AngularDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
